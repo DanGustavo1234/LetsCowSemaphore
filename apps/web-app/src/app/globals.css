@@ -21,6 +21,9 @@
     --slate800: #42424a;
     --slate900: #3a3a40;
     --slate950: #26262b;
+    --white: #FFFFFF;
+    --black: #000000;
+
 }
 
 * {
@@ -38,8 +41,8 @@ body {
 }
 
 body {
-    background-color: var(--darkBlueBg);
-    color: var(--slate200);
+    background-color: var(--white);
+    color: var(--black);
 }
 
 p {
